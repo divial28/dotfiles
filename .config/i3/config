@@ -38,8 +38,8 @@ exec_always --no-startup-id autotiling
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 
 # window decorations
-default_border pixel 1
-default_floating_border pixel 1
+default_border pixel 2
+default_floating_border pixel 2
 smart_gaps on
 gaps inner 10
 
