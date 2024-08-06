@@ -195,3 +195,4 @@ bindsym $mod+r mode "resize"
 # special rules
 for_window [title="Bluetooth Devices"] floating enable
 for_window [title="Volume Control"] floating enable move position 3050 px 80 px
+for_window [title="AmneziaVPN"] floating enable move position 3250 px 80 px
