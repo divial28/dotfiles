@@ -10,3 +10,6 @@ rsync -a ./polybar-bluetooth/bluetooth.sh ~/.config/polybar/scripts/
 rsync -a ./polybar-bluetooth/toggle_bluetooth.sh ~/.config/polybar/scripts/
 chmod +x ~/.config/polybar/scripts/bluetooth.sh
 chmod +x ~/.config/polybar/scripts/toggle_bluetooth.sh
+
+rsync -a ./polybar-pulseaudio-control/pulseaudio-control ~/.config/polybar/scripts/
+chmod +x ~/.config/polybar/scripts/pulseaudio-control

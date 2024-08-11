@@ -4,3 +4,6 @@
 [submodule "polybar-bluetooth"]
 	path = polybar-bluetooth
 	url = https://github.com/msaitz/polybar-bluetooth.git
+[submodule "polybar-pulseaudio-control"]
+	path = polybar-pulseaudio-control
+	url = https://github.com/marioortizmanero/polybar-pulseaudio-control.git
